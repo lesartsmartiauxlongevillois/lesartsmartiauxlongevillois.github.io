@@ -2,18 +2,56 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Les Arts Martiaux Longevillois</title>
-    <description>Les Arts Martiaux Longevillois : club d'Aïkido de Longeville-Lès-Metz. Tarifs: 40-70 euros. Professeurs: LIGORI (3e dan), CHAPERT (2e dan), SAIGNEMORTE (1er dan).</description>
+    <description>Les Arts Martiaux Longevillois : club d'Aïkido de Longeville-Lès-Metz. Tarifs: 35-80 euros. Professeurs: LIGORI (3e dan), CHAPERT (2e dan), SAIGNEMORTE (1er dan).</description>
     <link>http://www.aikido-longeville-les-metz.fr/</link>
     <atom:link href="http://www.aikido-longeville-les-metz.fr/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 05 Jan 2017 18:18:05 +0100</pubDate>
-    <lastBuildDate>Thu, 05 Jan 2017 18:18:05 +0100</lastBuildDate>
-    <generator>Jekyll v3.2.1</generator>
+    <pubDate>Wed, 27 Sep 2017 19:52:16 +0200</pubDate>
+    <lastBuildDate>Wed, 27 Sep 2017 19:52:16 +0200</lastBuildDate>
+    <generator>Jekyll v3.6.0</generator>
+    
+      <item>
+        <title>Tarifs 2017-2018</title>
+        <description>&lt;h1 id=&quot;tarifs-pour-toute-la-saison-2017-2018&quot;&gt;Tarifs pour toute la saison 2017-2018&lt;/h1&gt;
+
+&lt;h2 id=&quot;adultes-à-partir-de-15-ans&quot;&gt;Adultes (à partir de 15 ans)&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;nouvel adhérent : 60 euros&lt;/li&gt;
+  &lt;li&gt;ancien adhérent : 80 euros&lt;/li&gt;
+  &lt;li&gt;autre adulte de la même famille : 60 euros&lt;/li&gt;
+  &lt;li&gt;licencié d’un autre club : 35 euros&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;adolescents-de-14-à-15-ans&quot;&gt;Adolescents (de 14 à 15 ans)&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;nouvel ou ancien adhérent : 60 euros&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;enfants-à-partir-de-7-ans-jusque-14-ans&quot;&gt;Enfants (à partir de 7 ans jusque 14 ans)&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;nouvel ou ancien adhérent : 50 euros&lt;/li&gt;
+  &lt;li&gt;autre enfant de la même famille : 40 euros&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;bulletin-dadhésion&quot;&gt;Bulletin d’adhésion&lt;/h2&gt;
+
+&lt;p&gt;Téléchargez le bulletin d’adhésion au format: &lt;a href=&quot;/pdf/bulletin-adhesion-aikido-longeville-les-metz-2017-2018.pdf&quot;&gt;PDF&lt;/a&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 27 Sep 2017 13:09:00 +0200</pubDate>
+        <link>http://www.aikido-longeville-les-metz.fr/tarifs_2017-2018/</link>
+        <guid isPermaLink="true">http://www.aikido-longeville-les-metz.fr/tarifs_2017-2018/</guid>
+        
+        
+      </item>
     
       <item>
         <title>Tarifs 2016-2017</title>
         <description>&lt;h1 id=&quot;tarifs-pour-toute-la-saison-2016-2017&quot;&gt;Tarifs pour toute la saison 2016-2017&lt;/h1&gt;
 
-&lt;h2 id=&quot;adultes--partir-de-15-ans&quot;&gt;Adultes (à partir de 15 ans)&lt;/h2&gt;
+&lt;h2 id=&quot;adultes-à-partir-de-15-ans&quot;&gt;Adultes (à partir de 15 ans)&lt;/h2&gt;
 
 &lt;ul&gt;
   &lt;li&gt;nouvel adhérent : 50 euros&lt;/li&gt;
@@ -22,20 +60,20 @@
   &lt;li&gt;licencié d’un autre club : 35 euros&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&quot;adolescents-de-14--15-ans&quot;&gt;Adolescents (de 14 à 15 ans)&lt;/h2&gt;
+&lt;h2 id=&quot;adolescents-de-14-à-15-ans&quot;&gt;Adolescents (de 14 à 15 ans)&lt;/h2&gt;
 
 &lt;ul&gt;
   &lt;li&gt;nouvel ou ancien adhérent : 50 euros&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&quot;enfants--partir-de-7-ans-jusque-14-ans&quot;&gt;Enfants (à partir de 7 ans jusque 14 ans)&lt;/h2&gt;
+&lt;h2 id=&quot;enfants-à-partir-de-7-ans-jusque-14-ans&quot;&gt;Enfants (à partir de 7 ans jusque 14 ans)&lt;/h2&gt;
 
 &lt;ul&gt;
   &lt;li&gt;nouvel ou ancien adhérent : 40 euros&lt;/li&gt;
   &lt;li&gt;autre enfant de la même famille : 36 euros&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&quot;bulletin-dadhsion&quot;&gt;Bulletin d’adhésion&lt;/h2&gt;
+&lt;h2 id=&quot;bulletin-dadhésion&quot;&gt;Bulletin d’adhésion&lt;/h2&gt;
 
 &lt;p&gt;Téléchargez le bulletin d’adhésion au format: &lt;a href=&quot;/pdf/bulletin-adhesion-aikido-longeville-les-metz-2016-2017.pdf&quot;&gt;PDF&lt;/a&gt;&lt;/p&gt;
 
@@ -104,7 +142,7 @@
         <title>Tarifs 2015-2016</title>
         <description>&lt;h1 id=&quot;tarifs-pour-toute-la-saison-2015-2016&quot;&gt;Tarifs pour toute la saison 2015-2016&lt;/h1&gt;
 
-&lt;h2 id=&quot;adultes--partir-de-15-ans&quot;&gt;Adultes (à partir de 15 ans)&lt;/h2&gt;
+&lt;h2 id=&quot;adultes-à-partir-de-15-ans&quot;&gt;Adultes (à partir de 15 ans)&lt;/h2&gt;
 
 &lt;ul&gt;
   &lt;li&gt;nouvel adhérent : 50 euros&lt;/li&gt;
@@ -112,7 +150,7 @@
   &lt;li&gt;autre adulte de la même famille : 50 euros&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&quot;enfants--partir-de-7-ans-jusque-14-ans&quot;&gt;Enfants (à partir de 7 ans jusque 14 ans)&lt;/h2&gt;
+&lt;h2 id=&quot;enfants-à-partir-de-7-ans-jusque-14-ans&quot;&gt;Enfants (à partir de 7 ans jusque 14 ans)&lt;/h2&gt;
 
 &lt;ul&gt;
   &lt;li&gt;nouvel ou ancien adhérent : 40 euros&lt;/li&gt;
@@ -133,13 +171,13 @@
 
 &lt;p&gt;Vous trouverez ci-dessous les différentes vidéos de l’examen :&lt;/p&gt;
 
-&lt;h2 id=&quot;abbr-titleterme-japonais-dsignant-les-techniques-martiales-pratiques--genousuwari-wazaabbr&quot;&gt;&lt;abbr title=&quot;terme japonais désignant les techniques martiales pratiquées à genou&quot;&gt;suwari waza&lt;/abbr&gt;&lt;/h2&gt;
+&lt;h2 id=&quot;suwari-waza&quot;&gt;&lt;abbr title=&quot;terme japonais désignant les techniques martiales pratiquées à genou&quot;&gt;suwari waza&lt;/abbr&gt;&lt;/h2&gt;
 
 &lt;h6 id=&quot;partie-1-sur-7&quot;&gt;Partie 1 sur 7&lt;/h6&gt;
 
 &lt;iframe width=&quot;320&quot; height=&quot;200&quot; src=&quot;http://www.youtube.com/embed/UjTlkWm_QHw?color=white&amp;amp;theme=light&quot;&gt;&lt;/iframe&gt;
 
-&lt;h2 id=&quot;abbr-titleterme-japonais-dsignant-les-techniques-martiales-pratiques-debouttachi-wazaabbr&quot;&gt;&lt;abbr title=&quot;terme japonais désignant les techniques martiales pratiquées debout&quot;&gt;tachi waza&lt;/abbr&gt;&lt;/h2&gt;
+&lt;h2 id=&quot;tachi-waza&quot;&gt;&lt;abbr title=&quot;terme japonais désignant les techniques martiales pratiquées debout&quot;&gt;tachi waza&lt;/abbr&gt;&lt;/h2&gt;
 
 &lt;h6 id=&quot;partie-2-sur-7&quot;&gt;Partie 2 sur 7&lt;/h6&gt;
 
@@ -149,25 +187,25 @@
 
 &lt;iframe width=&quot;320&quot; height=&quot;200&quot; src=&quot;http://www.youtube.com/embed/WLVteH29C8g?color=white&amp;amp;theme=light&quot;&gt;&lt;/iframe&gt;
 
-&lt;h2 id=&quot;abbr-titleterme-japonais-dsignant-les-techniques-martiales-pratiques--mains-nues-contre-des-attaques-au-couteau-en-boistanto-doriabbr&quot;&gt;&lt;abbr title=&quot;terme japonais désignant les techniques martiales pratiquées à mains nues contre des attaques au couteau (en bois)&quot;&gt;tanto dori&lt;/abbr&gt;&lt;/h2&gt;
+&lt;h2 id=&quot;tanto-dori&quot;&gt;&lt;abbr title=&quot;terme japonais désignant les techniques martiales pratiquées à mains nues contre des attaques au couteau (en bois)&quot;&gt;tanto dori&lt;/abbr&gt;&lt;/h2&gt;
 
 &lt;h6 id=&quot;partie-4-sur-7&quot;&gt;Partie 4 sur 7&lt;/h6&gt;
 
 &lt;iframe width=&quot;320&quot; height=&quot;200&quot; src=&quot;http://www.youtube.com/embed/AqT_bwieZyQ?color=white&amp;amp;theme=light&quot;&gt;&lt;/iframe&gt;
 
-&lt;h2 id=&quot;abbr-titleterme-japonais-dsignant-les-techniques-martiales-pratiques--mains-nues-contre-des-attaques--la-lance-en-boisjyo-doriabbr&quot;&gt;&lt;abbr title=&quot;terme japonais désignant les techniques martiales pratiquées à mains nues contre des attaques à la lance (en bois)&quot;&gt;jyo dori&lt;/abbr&gt;&lt;/h2&gt;
+&lt;h2 id=&quot;jyo-dori&quot;&gt;&lt;abbr title=&quot;terme japonais désignant les techniques martiales pratiquées à mains nues contre des attaques à la lance (en bois)&quot;&gt;jyo dori&lt;/abbr&gt;&lt;/h2&gt;
 
 &lt;h6 id=&quot;partie-5-sur-7&quot;&gt;Partie 5 sur 7&lt;/h6&gt;
 
 &lt;iframe width=&quot;320&quot; height=&quot;200&quot; src=&quot;http://www.youtube.com/embed/bGkR7_WR_Ac?color=white&amp;amp;theme=light&quot;&gt;&lt;/iframe&gt;
 
-&lt;h2 id=&quot;abbr-titleterme-japonais-dsignant-les-techniques-martiales-pratiques--mains-nues-contre-des-attaques-au-sabre-en-boisbokken-doriabbr&quot;&gt;&lt;abbr title=&quot;terme japonais désignant les techniques martiales pratiquées à mains nues contre des attaques au sabre (en bois)&quot;&gt;bokken dori&lt;/abbr&gt;&lt;/h2&gt;
+&lt;h2 id=&quot;bokken-dori&quot;&gt;&lt;abbr title=&quot;terme japonais désignant les techniques martiales pratiquées à mains nues contre des attaques au sabre (en bois)&quot;&gt;bokken dori&lt;/abbr&gt;&lt;/h2&gt;
 
 &lt;h6 id=&quot;partie-6-sur-7&quot;&gt;Partie 6 sur 7&lt;/h6&gt;
 
 &lt;iframe width=&quot;320&quot; height=&quot;200&quot; src=&quot;http://www.youtube.com/embed/wo4JkRgH3Xo?color=white&amp;amp;theme=light&quot;&gt;&lt;/iframe&gt;
 
-&lt;h2 id=&quot;abbr-titleterme-japonais-dsignant-lattaque-dune-personne-par-plusieurs-partenairesrandoriabbr-ou-abbr-titleterme-japonais-dsignant-lattaque-dune-personne-par-plusieurs-partenairestaninzugakeabbr&quot;&gt;&lt;abbr title=&quot;terme japonais désignant l'attaque d'une personne par plusieurs partenaires&quot;&gt;randori&lt;/abbr&gt; ou &lt;abbr title=&quot;terme japonais désignant l'attaque d'une personne par plusieurs partenaires&quot;&gt;taninzugake&lt;/abbr&gt;&lt;/h2&gt;
+&lt;h2 id=&quot;randori-ou-taninzugake&quot;&gt;&lt;abbr title=&quot;terme japonais désignant l'attaque d'une personne par plusieurs partenaires&quot;&gt;randori&lt;/abbr&gt; ou &lt;abbr title=&quot;terme japonais désignant l'attaque d'une personne par plusieurs partenaires&quot;&gt;taninzugake&lt;/abbr&gt;&lt;/h2&gt;
 
 &lt;h6 id=&quot;partie-7-sur-7&quot;&gt;Partie 7 sur 7&lt;/h6&gt;
 
@@ -175,7 +213,7 @@
 
 &lt;h2 id=&quot;tout-le-passage-de-grade&quot;&gt;Tout le passage de grade&lt;/h2&gt;
 
-&lt;h6 id=&quot;partie-de-1--7&quot;&gt;Partie de 1 à 7&lt;/h6&gt;
+&lt;h6 id=&quot;partie-de-1-à-7&quot;&gt;Partie de 1 à 7&lt;/h6&gt;
 
 &lt;iframe width=&quot;320&quot; height=&quot;200&quot; src=&quot;http://www.youtube.com/embed?listType=playlist&amp;amp;list=PLcWqWAlwJZ0Fnr7KiJTgma3G7Bj81PNfV&amp;amp;color=white&amp;amp;theme=light&quot;&gt;&lt;/iframe&gt;
 </description>
